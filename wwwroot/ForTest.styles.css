@@ -1,0 +1,9 @@
+/* /Pages/Examples/Example1.razor.rz.scp.css */
+h1[b-m3ebj1cgah] {
+    color: brown;
+    font-family: Tahoma, Geneva, Verdana, sans-serif;
+}
+/* /Pages/Examples/Parent.razor.rz.scp.css */
+[b-ys3t0x1ym1] h1 {
+    color: red;
+}
